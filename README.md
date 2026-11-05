@@ -8,12 +8,13 @@
 
 | 入口 | 内容 |
 | --- | --- |
-| [主题百科](wiki/README.md) | 按职业发展、财富积累、天文与摄影等主题查找知识 |
+| [主题百科](wiki/README.md) | 按职业发展、财富积累、天文与摄影、机械设计等主题查找知识 |
 | [阅读笔记](readings/README.md) | 按资料查看摘要、详细笔记和思考问题 |
 | [首个百科条目：职业发展与财富积累](wiki/career-and-wealth.md) | 从职业能力到收入、结余与资产的知识框架 |
 | [首篇阅读笔记：职场人如何积累财富](readings/2026-04-10-career-and-wealth.md) | Asher's Blog 文章的中文整理 |
 | [深空摄影：目标分类、成像方法与图例](wiki/deep-sky-astrophotography.md) | 从星云、星团到星系，理解光谱、视场与拍摄重点 |
 | [天文与深空摄影常用术语](wiki/astronomy-glossary.md) | 距离、星等、坐标、光谱、器材、拍摄和后期术语速查 |
+| [退刀槽选型：A～F型用途与查表方法](wiki/shaft-relief-groove-selection.md) | 原表图片、磨削部位对照、φ40 mm查表示例及装配避让检查 |
 
 ## 主题导航
 
@@ -22,6 +23,7 @@
 | 职业发展 | [职业发展与财富积累](wiki/career-and-wealth.md) | [职场人如何积累财富](readings/2026-04-10-career-and-wealth.md) |
 | 财富积累 | [职业发展与财富积累](wiki/career-and-wealth.md) | [职场人如何积累财富](readings/2026-04-10-career-and-wealth.md) |
 | 天文与摄影 | [深空摄影](wiki/deep-sky-astrophotography.md)、[常用术语](wiki/astronomy-glossary.md) | 多来源主题整理，出处见条目 |
+| 机械设计 | [退刀槽选型](wiki/shaft-relief-groove-selection.md) | 根据提供的手册截图整理，原表与版本见条目 |
 
 同一条目可以属于多个主题，正文只维护一份。有新内容时再增加分类。
 
@@ -54,6 +56,7 @@
 ```text
 readings/      阅读目录与逐篇资料笔记
 wiki/          主题目录与持续更新的百科条目
+assets/        条目使用的图片等附件
 templates/     阅读笔记模板与百科条目模板
 ```
 
@@ -66,6 +69,7 @@ templates/     阅读笔记模板与百科条目模板
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-11-05 | 新增退刀槽选型图文笔记，包含原表、A～F型用途、φ40 mm示例和选型检查表 |
 | 2026-11-04 | 新增天文与深空摄影术语速查，与深空摄影条目建立双向链接 |
 | 2026-11-03 | 新增深空摄影图文百科：目标分类、宽窄带成像、视场计算、四幅实拍图及参考来源 |
 | 2026-11-03 | 建立知识库，加入《职场人如何积累财富》阅读笔记、职业发展与财富积累条目及两份模板 |
